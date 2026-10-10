@@ -4,7 +4,7 @@ This folder contains the Power BI setup resources and the location for the compl
 
 ## Download and open
 
-1. Upload `UrbanMart_Professional_PowerBI_Dashboard.zip` into **this folder** using **Add file → Upload files**.
+1. Download [UrbanMart_Professional_PowerBI_Dashboard.zip](UrbanMart_Professional_PowerBI_Dashboard.zip) from this folder.
 2. Download that ZIP from GitHub and extract all contents into one local Windows folder.
 3. Open `UrbanMart_Retail_Analytics.pbip` in a recent version of **Power BI Desktop**. Do **not** open the individual .pbip descriptor in this repository without its companion folders.
 4. Confirm that **Executive Overview**, **Products & Profitability**, and **Customers & Stores** load and respond to filters.
