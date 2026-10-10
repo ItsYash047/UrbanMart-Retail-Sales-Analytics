@@ -1,0 +1,58 @@
+{
+  "name": "UrbanMart Executive · Navy & Teal",
+  "dataColors": [
+    "#0B8F8B",
+    "#335D92",
+    "#F1AD45",
+    "#A78BFA",
+    "#4F9FC3",
+    "#94A3B8",
+    "#DC6E63",
+    "#49B4A5"
+  ],
+  "background": "#F5F8FC",
+  "foreground": "#172B4D",
+  "tableAccent": "#0B8F8B",
+  "good": "#079B78",
+  "neutral": "#F1AD45",
+  "bad": "#D85757",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#172B4D"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
