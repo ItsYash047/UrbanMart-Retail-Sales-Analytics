@@ -51,7 +51,11 @@ The editable dashboard project has **three report pages**:
 2. **Products & Profitability** — leading products, margin and discount analysis, inventory signals
 3. **Customers & Stores** — customers, store-city comparisons and payment methods
 
-See **[Power BI setup, measures, and package instructions](powerbi/README.md)**.
+**[Download the complete Power BI dashboard ZIP](powerbi/UrbanMart_Professional_PowerBI_Dashboard.zip)** · [Setup and DAX documentation](powerbi/README.md)
+
+The ZIP includes the editable `.pbip` project with its report and semantic-model folders, three preview screenshots, sample datasets, a theme, and an offline HTML dashboard preview.
+
+*To see the dashboard without Power BI Desktop, extract the ZIP and open `UrbanMart_Dashboard_Preview.html` in a browser.*
 
 > The `.pbip` descriptor in `powerbi/` is **not sufficient by itself**. Open the complete ZIP package in Power BI Desktop after extracting it; it contains the required `.Report` and `.SemanticModel` folders. This programmatically created PBIP has not yet been verified by opening it in Power BI Desktop.
 
@@ -75,14 +79,14 @@ UrbanMart-Retail-Sales-Analytics/
     ├── UrbanMart_Retail_Analytics.pbip
     ├── UrbanMart_Theme.json
     ├── DAX_Measures.md
-    └── [complete dashboard ZIP + screenshots to be added]
+    └── UrbanMart_Professional_PowerBI_Dashboard.zip
 ```
 
 ## How to explore
 
 **SQL:** Create schema and tables from `sql/01_Database_and_Tables.sql`, import the CSVs, then run `sql/02_Business_Analysis.sql`.
 
-**Power BI:** Download the complete Power BI dashboard ZIP from `powerbi/` when available. Extract it fully, open `UrbanMart_Retail_Analytics.pbip` in a current Power BI Desktop build, and validate data and visuals. See the setup guide linked above.
+**Power BI:** [Download the complete Power BI dashboard ZIP](powerbi/UrbanMart_Professional_PowerBI_Dashboard.zip) from `powerbi/`. Extract it fully, open `UrbanMart_Retail_Analytics.pbip` in a current Power BI Desktop build, and validate data and visuals. See the setup guide linked above.
 
 ## Project documentation
 
