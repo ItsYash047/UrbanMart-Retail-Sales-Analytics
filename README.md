@@ -51,6 +51,26 @@ The editable dashboard project has **three report pages**:
 2. **Products & Profitability** — leading products, margin and discount analysis, inventory signals
 3. **Customers & Stores** — customers, store-city comparisons and payment methods
 
+### Dashboard previews
+
+#### 1. Executive Overview
+
+![UrbanMart executive overview dashboard](powerbi/screenshots/01_Executive_Overview.png)
+
+*Revenue, estimated profitability, category performance and monthly sales trends at a glance.*
+
+#### 2. Products & Profitability
+
+![UrbanMart products and profitability dashboard](powerbi/screenshots/02_Products_Profitability.png)
+
+*Compare product contribution, estimated margins, discounts and inventory signals.*
+
+#### 3. Customers & Stores
+
+![UrbanMart customers and stores dashboard](powerbi/screenshots/03_Customers_Stores.png)
+
+*Explore customer spending patterns, store-city performance and payment methods.*
+
 **[Download the complete Power BI dashboard ZIP](powerbi/UrbanMart_Professional_PowerBI_Dashboard.zip)** · [Setup and DAX documentation](powerbi/README.md)
 
 The ZIP includes the editable `.pbip` project with its report and semantic-model folders, three preview screenshots, sample datasets, a theme, and an offline HTML dashboard preview.
@@ -79,7 +99,11 @@ UrbanMart-Retail-Sales-Analytics/
     ├── UrbanMart_Retail_Analytics.pbip
     ├── UrbanMart_Theme.json
     ├── DAX_Measures.md
-    └── UrbanMart_Professional_PowerBI_Dashboard.zip
+    ├── UrbanMart_Professional_PowerBI_Dashboard.zip
+    └── screenshots/
+        ├── 01_Executive_Overview.png
+        ├── 02_Products_Profitability.png
+        └── 03_Customers_Stores.png
 ```
 
 ## How to explore

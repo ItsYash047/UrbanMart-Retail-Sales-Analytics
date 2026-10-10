@@ -5,7 +5,7 @@ This folder contains the Power BI setup resources and the location for the compl
 ## Download and open
 
 1. Download [UrbanMart_Professional_PowerBI_Dashboard.zip](UrbanMart_Professional_PowerBI_Dashboard.zip) from this folder.
-2. Download that ZIP from GitHub and extract all contents into one local Windows folder.
+2. Extract the ZIP into a local Windows folder, keeping the project folders together.
 3. Open `UrbanMart_Retail_Analytics.pbip` in a recent version of **Power BI Desktop**. Do **not** open the individual .pbip descriptor in this repository without its companion folders.
 4. Confirm that **Executive Overview**, **Products & Profitability**, and **Customers & Stores** load and respond to filters.
 5. Under **View → Themes → Browse for themes**, select `UrbanMart_Theme.json` if needed.
@@ -35,4 +35,16 @@ The ZIP includes the required `.Report` and `.SemanticModel` directories, sample
 - [Theme](UrbanMart_Theme.json)
 - [DAX measures](DAX_Measures.md)
 - [PBIP descriptor](UrbanMart_Retail_Analytics.pbip) (**not standalone**)
-- Preview screenshots: add images under `powerbi/screenshots/` (recommended)
+## Report screenshots
+
+### Executive Overview
+
+![UrbanMart executive overview](screenshots/01_Executive_Overview.png)
+
+### Products & Profitability
+
+![UrbanMart products profitability](screenshots/02_Products_Profitability.png)
+
+### Customers & Stores
+
+![UrbanMart customers stores](screenshots/03_Customers_Stores.png)
