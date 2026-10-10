@@ -1,0 +1,91 @@
+product_id,product_name,category,brand,cost_price,selling_price,stock_quantity,reorder_level,supplier_city
+P1001,Bluetooth Neckband,Electronics,LG,270.76,416.55,155,15,Pune
+P1002,Smartwatch,Electronics,Sony,2444.27,3760.42,361,30,Mumbai
+P1003,Wireless Earbuds,Electronics,OnePlus,291.45,448.38,62,15,Pune
+P1004,LED Bulb 9W,Electronics,Samsung,1908.95,2936.85,381,30,Ahmedabad
+P1005,Power Bank 10000mAh,Electronics,boAt,1566.68,2410.28,157,10,Ludhiana
+P1006,Bluetooth Speaker,Electronics,Sony,2327.17,3580.26,189,20,Pune
+P1007,USB Type-C Cable,Electronics,boAt,3118.64,4797.91,187,10,Mumbai
+P1008,Wireless Mouse,Electronics,OnePlus,489.82,753.57,191,30,Delhi
+P1009,Mechanical Keyboard,Electronics,Samsung,2423.68,3728.74,289,10,Ahmedabad
+P1010,Smart LED Bulb,Electronics,LG,1880.83,2893.58,336,30,Ludhiana
+P1011,HDMI Cable 2m,Electronics,Noise,1958.16,3012.55,375,10,Mumbai
+P1012,Portable Charger 20000mAh,Electronics,boAt,2556.07,3932.42,55,15,Ludhiana
+P1013,Wired Earphones,Electronics,LG,1355.64,2085.6,247,20,Pune
+P1014,Laptop Cooling Pad,Electronics,Noise,1279.7,1968.77,358,20,Surat
+P1015,Webcam HD 1080p,Electronics,LG,2055.25,3161.92,102,30,Surat
+P1016,Smart Plug,Electronics,boAt,693.54,1066.98,209,20,Surat
+P1017,Extension Board 4-Socket,Electronics,boAt,2285.85,3516.69,43,15,Ludhiana
+P1018,Basmati Rice 5kg,Grocery & Staples,Tata,474.86,730.55,220,20,Mumbai
+P1019,Toor Dal 1kg,Grocery & Staples,Patanjali,535.57,823.95,305,20,Pune
+P1020,Refined Sunflower Oil 1L,Grocery & Staples,Everest,244.94,376.83,344,25,Pune
+P1021,Wheat Atta 10kg,Grocery & Staples,Amul,101.17,155.65,396,30,Chennai
+P1022,Turmeric Powder 200g,Grocery & Staples,Amul,442.27,680.42,234,30,Ahmedabad
+P1023,Garam Masala 100g,Grocery & Staples,Nestle,145.92,224.49,85,30,Ahmedabad
+P1024,Sugar 1kg,Grocery & Staples,Aashirvaad,447.2,688.0,71,15,Surat
+P1025,Iodized Salt 1kg,Grocery & Staples,Fortune,467.58,719.35,231,30,Mumbai
+P1026,Tea Leaves 250g,Grocery & Staples,MDH,237.07,364.72,254,30,Delhi
+P1027,Instant Coffee 100g,Grocery & Staples,Tata,404.8,622.77,73,30,Ludhiana
+P1028,Ghee 500ml,Grocery & Staples,Amul,454.4,699.08,189,10,Delhi
+P1029,Besan 1kg,Grocery & Staples,MDH,111.57,171.65,16,20,Chennai
+P1030,Poha 500g,Grocery & Staples,Fortune,307.86,473.63,69,20,Ludhiana
+P1031,Sooji 1kg,Grocery & Staples,Patanjali,108.58,167.05,97,30,Ludhiana
+P1032,Cornflakes 500g,Grocery & Staples,Tata,359.12,552.49,265,10,Mumbai
+P1033,Honey 500g,Grocery & Staples,Nestle,516.24,794.22,172,15,Mumbai
+P1034,Peanut Butter 340g,Grocery & Staples,Patanjali,515.84,793.6,55,10,Surat
+P1035,Men's Formal Shirt,Fashion & Apparel,Fabindia,1891.68,2910.28,287,15,Pune
+P1036,Women's Kurti,Fashion & Apparel,Fabindia,2163.8,3328.92,99,20,Chennai
+P1037,Men's Denim Jeans,Fashion & Apparel,Puma,2200.22,3384.95,291,15,Surat
+P1038,Women's Leggings,Fashion & Apparel,Biba,1024.25,1575.77,358,20,Ahmedabad
+P1039,Cotton T-Shirt,Fashion & Apparel,Fabindia,446.04,686.22,130,10,Delhi
+P1040,Men's Casual Shoes,Fashion & Apparel,Allen Solly,1418.03,2181.58,132,30,Pune
+P1041,Women's Sandals,Fashion & Apparel,Allen Solly,342.02,526.18,338,10,Pune
+P1042,Kids Ethnic Set,Fashion & Apparel,Levis,2077.62,3196.34,184,10,Chennai
+P1043,Men's Track Pants,Fashion & Apparel,Van Heusen,773.58,1190.12,263,15,Chennai
+P1044,Women's Saree,Fashion & Apparel,Peter England,1698.92,2613.72,307,30,Ahmedabad
+P1045,Men's Blazer,Fashion & Apparel,Van Heusen,1826.36,2809.78,223,15,Mumbai
+P1046,Women's Dupatta Set,Fashion & Apparel,Levis,1565.03,2407.74,196,25,Ahmedabad
+P1047,Woolen Sweater,Fashion & Apparel,Fabindia,1991.13,3063.28,42,10,Mumbai
+P1048,Men's Sports Shoes,Fashion & Apparel,Puma,1709.03,2629.28,70,15,Pune
+P1049,Women's Handbag,Fashion & Apparel,Van Heusen,1309.82,2015.11,86,25,Pune
+P1050,Non-Stick Frying Pan,Home & Kitchen,Borosil,1272.04,1956.98,53,25,Ludhiana
+P1051,Pressure Cooker 5L,Home & Kitchen,Milton,254.3,391.23,291,10,Mumbai
+P1052,Steel Water Bottle 1L,Home & Kitchen,Pigeon,540.14,830.98,263,25,Pune
+P1053,Casserole Set 3pc,Home & Kitchen,Bajaj,2358.38,3628.28,99,25,Mumbai
+P1054,Electric Kettle 1.5L,Home & Kitchen,Bajaj,784.4,1206.77,247,20,Ahmedabad
+P1055,Mixer Grinder 750W,Home & Kitchen,Hawkins,511.7,787.23,166,15,Mumbai
+P1056,Induction Cooktop,Home & Kitchen,Prestige,1976.85,3041.31,44,10,Chennai
+P1057,Vacuum Flask 1L,Home & Kitchen,Hawkins,1371.39,2109.83,286,15,Mumbai
+P1058,Dinner Set 24pc,Home & Kitchen,Milton,2232.17,3434.11,50,30,Mumbai
+P1059,Chopping Board Set,Home & Kitchen,Pigeon,1126.68,1733.35,306,15,Chennai
+P1060,Storage Container Set,Home & Kitchen,Prestige,1659.22,2552.65,229,30,Chennai
+P1061,Toaster 2-Slice,Home & Kitchen,Wonderchef,2438.07,3750.88,119,20,Pune
+P1062,Hand Blender,Home & Kitchen,Borosil,1106.94,1702.98,358,20,Ahmedabad
+P1063,Rice Cooker 1.8L,Home & Kitchen,Wonderchef,2424.03,3729.28,52,10,Ahmedabad
+P1064,Face Wash 100ml,Beauty & Personal Care,Nivea,72.33,111.28,124,30,Delhi
+P1065,Body Lotion 200ml,Beauty & Personal Care,Himalaya,547.48,842.28,50,15,Delhi
+P1066,Shampoo 340ml,Beauty & Personal Care,Dove,119.01,183.09,293,20,Chennai
+P1067,Herbal Soap Pack of 4,Beauty & Personal Care,Lakme,400.84,616.68,298,20,Surat
+P1068,Sunscreen SPF 50,Beauty & Personal Care,Nivea,550.61,847.09,83,20,Mumbai
+P1069,Lip Balm,Beauty & Personal Care,Nivea,442.04,680.06,94,20,Delhi
+P1070,Hair Oil 200ml,Beauty & Personal Care,Mamaearth,428.33,658.97,119,20,Chennai
+P1071,Face Cream 50g,Beauty & Personal Care,Plum,170.59,262.45,41,10,Surat
+P1072,Body Wash 250ml,Beauty & Personal Care,Biotique,490.06,753.94,37,10,Delhi
+P1073,Deodorant Spray,Beauty & Personal Care,Himalaya,383.86,590.55,149,15,Surat
+P1074,Talcum Powder 200g,Beauty & Personal Care,Plum,336.65,517.92,233,30,Mumbai
+P1075,Conditioner 340ml,Beauty & Personal Care,Nivea,73.42,112.95,368,15,Chennai
+P1076,Face Serum 30ml,Beauty & Personal Care,Lakme,492.96,758.4,313,30,Pune
+P1077,Hand Sanitizer 500ml,Beauty & Personal Care,Biotique,102.26,157.32,172,20,Ludhiana
+P1078,Yoga Mat 6mm,Sports & Fitness,Nivia,2638.56,4059.32,122,15,Surat
+P1079,Cricket Bat Kashmir Willow,Sports & Fitness,Cosco,1096.88,1687.51,301,25,Chennai
+P1080,Football Size 5,Sports & Fitness,Yonex,2714.45,4176.08,136,15,Ludhiana
+P1081,Skipping Rope,Sports & Fitness,Yonex,2589.05,3983.15,27,15,Surat
+P1082,Resistance Band Set,Sports & Fitness,Adidas,2309.05,3552.38,225,15,Delhi
+P1083,Badminton Racket,Sports & Fitness,Yonex,2323.15,3574.08,70,25,Ludhiana
+P1084,Gym Gloves,Sports & Fitness,Nivia,2524.52,3883.88,128,15,Ludhiana
+P1085,Dumbbells 5kg Pair,Sports & Fitness,Strauss,1085.51,1670.02,131,15,Mumbai
+P1086,Sports Water Bottle,Sports & Fitness,Decathlon,1223.51,1882.32,157,10,Ludhiana
+P1087,Cricket Ball Leather,Sports & Fitness,Nike,1089.72,1676.49,275,25,Surat
+P1088,Fitness Tracker Band,Sports & Fitness,Adidas,2752.54,4234.68,74,20,Pune
+P1089,Yoga Block,Sports & Fitness,Nike,205.02,315.42,320,25,Delhi
+P1090,Table Tennis Racket Set,Sports & Fitness,Adidas,1330.75,2047.31,276,10,Ahmedabad
